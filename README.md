@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Tanjil Mahmud Emtu</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm TM-EMTU</h1>
+<h3 align="center">A passionate frontend developer from Banglaash</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tm-emtu&label=Profile%20views&color=0e75b6&style=flat" alt="tm-emtu" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,React js,java**
+- 🌱 I’m currently learning **Javascript,React,JAVA**
 
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **emtu561@gmail.com**
 
-- ⚡ Fun fact **I Thinks I’m So Funny**
+- ⚡ Fun fact **I Think I'm So Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077571528377&mibextid=9r9pxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077571528377&mibextid=9r9pxo" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.facebook.com/profile.php?id=100077571528377&mibextid=9r9pxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/profile.php?id=100077571528377&mibextid=9r9pxo" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077571528377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077571528377" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tanjil_mahmud_emtu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tanjil_mahmud_emtu/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpotajiogf9tpsyv1p_8xvw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpotajiogf9tpsyv1p_8xvw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
