@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm TM-EMTU</h1>
-<h3 align="center">A passionate frontend developer from Banglaash</h3>
+<h1 align="center">Hi 👋, I'm TANJIL MAHMUD EMTU</h1>
+<h3 align="center">Aspiring AI Engineer | Python Developer | Passionate About AI and Tech Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tm-emtu&label=Profile%20views&color=0e75b6&style=flat" alt="tm-emtu" /> </p>
 
-- 🌱 I’m currently learning **Javascript,React,JAVA**
+- 🌱 I’m currently learning **PyTorch, NLP, LangChain**
 
-- 💬 Ask me about **HTML,CSS,JS**
 
-- 📫 How to reach me **emtu561@gmail.com**
+- 📫 How to reach me **tmemtu123@gmail.com**
 
 - ⚡ Fun fact **I Think I'm So Funny**
 
