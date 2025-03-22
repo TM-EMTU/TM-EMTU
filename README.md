@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **AI/ML**
 
-- 📫 How to reach me **tmemtu123@gmail.com**
+- 📫 How to reach me **emtu561@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
