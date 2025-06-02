@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **PyTorch, LangChain, NLP**
 
-- 👨‍💻 All of my projects are available at [https://tm-emtu.github.io/Portfulio/](https://tm-emtu.github.io/Portfulio/)
+- 👨‍💻 MY Portfolio [https://codebyemtu.me](https://codebyemtu.me)
 
 - 💬 Ask me about **AI/ML**
 
